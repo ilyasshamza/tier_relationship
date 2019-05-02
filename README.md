@@ -1,2 +1,2 @@
 # tier_relationship
-algorithme de dijkstra et la bibliothèque JGraphx
+algorithme de dijkstra et la bibliothèque  JGraphx 
